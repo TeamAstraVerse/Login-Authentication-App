@@ -10,3 +10,21 @@
       <li> npm i -g expo</li>
       <li> npm i -g expo-cli</li>
     </ol>
+</ul>
+<h2>Creating a Project in Firebase Console 🪜</h2>
+<ul>
+<li>Open firebase console in your browser and create a project for the application you are designing</li>
+<li>Click on Add App and select web app</li>
+<li>Enter a name to create and click on ok until it opens app details</li>
+<li>On the left side of the screen, we can see Project Overview, Click on that, and select Project Settings</li>
+<li> Scroll down until you see SDK setup and configuration </li>
+<li>On there, select config option and you can see the code. Copy the code and paste in you clipboard for future use</li>
+</ul>
+<h2>Enabling Authentication Option in your firebase account 🧐</h2>
+<ul>
+<li>On the main page of our project in the firebase, Click on Authentication Tab</li>
+<li>On the Authentication Tab, Click on Sign In method and click on Email and Password</li>
+<li>Just enable the Email and Password Option</li>
+<li>You are almost done with the firebase</li>
+</ul>
+<h2>Connecting the firebase with your Project ✅</h2>
