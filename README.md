@@ -29,6 +29,7 @@
 </ul>
 <h2>Connecting the firebase with your Project ✅</h2>
 <ul>
-<li>Create a folder for firebase</li>
-<li>Create a file with firebase.js</li>
+    <li>Create a folder for firebase</li>
+    <li>Create a file with firebase.js</li>
+    <li>Paste the code you have copied in the firebase console</li>
 </ul>
