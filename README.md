@@ -32,4 +32,12 @@
     <li>Create a folder for firebase</li>
     <li>Create a file with firebase.js</li>
     <li>Paste the code you have copied in the firebase console</li>
+    <li>Paste this code in your screen you want import { createUserWithEmailAndPassword, signInWithEmailAndPassword } from 'firebase/auth';</li>
+    <li>const handleSignUp = () => {<br>
+        createUserWithEmailAndPassword(authentication, email, password).then((userCredential) => {<br>
+            const user = userCredential.user;<br>
+            console.log('Registered with ',user.email);<br>
+        }).catch(error => alert(error.message));<br>
+    };</li>
+    <li>Put handleSignUp in onClick attribute in your TouchableOpacity</li>
 </ul>
